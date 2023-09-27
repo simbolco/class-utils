@@ -1,0 +1,26 @@
+{
+  "name": "@simbolco/class-utils",
+  "type": "commonjs",
+  "version": "1.0.0",
+  "description": "Utilities for and to be applied to classes",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simbolco/class-utils.git"
+  },
+  "keywords": [
+    "class",
+    "decorator",
+    "esmodule",
+    "es5",
+    "types",
+    "typescript"
+  ],
+  "author": "The Simon Bolivar Company",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/simbolco/class-utils/issues"
+  },
+  "homepage": "https://github.com/simbolco/class-utils#readme"
+}
